@@ -1,4 +1,4 @@
-# 🧬 Antibiotic Resistance Prediction System  
+# 🧬 DoseSure
 **Health & Well-Being | Clinical Decision Support**
 
 A machine learning system that predicts **antibiotic resistance probabilities** for bacterial cultures to support safer, more effective empiric antibiotic selection.
